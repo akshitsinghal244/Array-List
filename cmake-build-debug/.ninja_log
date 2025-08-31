@@ -1,0 +1,12 @@
+# ninja log v6
+100	537	7766860273787995	CMakeFiles/dsa_class_week2.dir/main.c.obj	87fbeafd09cf0cf6
+112	541	7766860273905804	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+117	429	7771928037480551	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+47	285	7771931277853440	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+287	559	7771931280250752	dsa_class_week2.exe	4020e272ee71659e
+102	405	7772358447085590	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+406	937	7772358450120412	dsa_class_week2.exe	4020e272ee71659e
+37	215	7772359270141589	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+216	433	7772359271934298	dsa_class_week2.exe	4020e272ee71659e
+259	802	7772867836111961	CMakeFiles/dsa_class_week2.dir/func.c.obj	daf0260db9eb8fa2
+804	1962	7772867841568331	dsa_class_week2.exe	4020e272ee71659e
